@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/9bany/go-agents/internal/swarm"
+	"github.com/9bany/ai-explore/internal/swarm"
 )
 
 func refundItem(args map[string]interface{}, contextVariables map[string]interface{}) swarm.Result {

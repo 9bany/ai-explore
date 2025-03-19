@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/9bany/go-agents/internal/llm"
-	"github.com/9bany/go-agents/internal/swarm"
+	"github.com/9bany/ai-explore/internal/llm"
+	"github.com/9bany/ai-explore/internal/swarm"
 	dotenv "github.com/joho/godotenv"
 )
 
